@@ -8,8 +8,11 @@
 {
     padding: 5px;
     width: 350px;
-    border:2px red solid;
+    border:5px red double;
     margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(223, 232, 207);
+    box-shadow: 0px 0px 2px 2px black;
 }
 
 .plan-button
@@ -31,5 +34,6 @@
 }
 .plan-button-container
 {
-    
+    display: flex;
+    justify-content: center;
 }
