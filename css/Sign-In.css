@@ -1,0 +1,28 @@
+.Main-login-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.login-container
+{
+    width: 400px;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome-text
+{
+    color: #ffbb33;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.input-box
+{
+    width: 300px;
+    height: 60px;
+}
+
+
