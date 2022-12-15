@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(190, 220, 179);
+}
 .Main-login-container
 {
     display: flex;
