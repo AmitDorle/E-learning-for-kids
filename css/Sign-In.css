@@ -6,10 +6,13 @@
 
 .login-container
 {
+    margin-top: 60px;
+    padding: 5px;
     width: 400px;
     background-color: beige;
     display: flex;
     flex-direction: column;
+    border-radius: 10px;
 }
 
 .welcome-text
@@ -21,8 +24,39 @@
 
 .input-box
 {
-    width: 300px;
+    width: 350px;
     height: 60px;
+    border-radius: 10px;
+    border: 2px rgb(27, 84, 56) solid;
 }
 
 
+.form-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.for-pass-container
+{
+    display: flex;
+    margin-left: 25px;
+    margin-right: 25px;
+    justify-content: space-between;
+}
+
+.sign-in-button-container
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.sign-in-button
+{
+    width: 350px;
+    height: 60px;
+    border-radius: 10px;
+    border: red double 2px;
+    background-color: #ffcc00;
+}
