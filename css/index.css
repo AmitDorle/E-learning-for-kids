@@ -32,6 +32,22 @@
     border-radius: 15px;
     transition: 2s;
 }
+.button-container
+{
+    display: flex;
+    justify-content: center;
+}
+.btn-1
+{
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: double 4px black;
+    
+}
 .feature-container-main
 {
     display: flex;
@@ -45,7 +61,7 @@
 }
 .features-head
 {
-    
+
 }
 .feature-container
 {
