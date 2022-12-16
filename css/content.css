@@ -1,0 +1,21 @@
+.magazine-img-container
+{
+    border: solid 4px black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 680px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+.magazine-img
+{
+    
+}
+
+.magazine-cards-container
+{
+    justify-content: space-evenly;
+}
