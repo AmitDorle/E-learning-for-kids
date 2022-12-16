@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(190, 220, 179);
+    background-color: whitesmoke;
 }
 .Main-login-container
 {
@@ -12,10 +12,11 @@ body{
     margin-top: 50px;
     padding: 5px;
     width: 400px;
-    background-color: beige;
+    background-color: white;
     display: flex;
     flex-direction: column;
     border-radius: 15px;
+    box-shadow: 0px 0px 2px 2px black;
 }
 
 .welcome-text
