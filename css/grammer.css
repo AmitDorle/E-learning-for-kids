@@ -1,0 +1,23 @@
+body{
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgb(206, 152, 147), rgb(214, 202, 224) 100%);
+}
+.parent-grammer-container
+{
+    width: 950px;
+    background-color: antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.grammer-container
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 253, 250);
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px rgb(0, 255, 225) double ;
+}
